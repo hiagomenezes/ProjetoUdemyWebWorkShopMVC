@@ -32,3 +32,8 @@ C:\Users\hiago\Desktop\hiago\WorkShop-Web-MVC\WorkShop-Web-MVC\bin\Debug\netcore
 C:\Users\hiago\Desktop\hiago\WorkShop-Web-MVC\WorkShop-Web-MVC\bin\Debug\netcoreapp2.1\WorkShopWebMVC.Views.pdb
 C:\Users\hiago\Desktop\hiago\WorkShop-Web-MVC\WorkShop-Web-MVC\obj\Debug\netcoreapp2.1\WorkShopWebMVC.Views.pdb
 C:\Users\hiago\Desktop\hiago\WorkShop-Web-MVC\WorkShop-Web-MVC\obj\Debug\netcoreapp2.1\WorkShopWebMVC.csproj.CopyComplete
+C:\Users\hiago\Desktop\hiago\WorkShop-Web-MVC\WorkShop-Web-MVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.cshtml.g.cs
+C:\Users\hiago\Desktop\hiago\WorkShop-Web-MVC\WorkShop-Web-MVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.cshtml.g.cs
+C:\Users\hiago\Desktop\hiago\WorkShop-Web-MVC\WorkShop-Web-MVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
+C:\Users\hiago\Desktop\hiago\WorkShop-Web-MVC\WorkShop-Web-MVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
+C:\Users\hiago\Desktop\hiago\WorkShop-Web-MVC\WorkShop-Web-MVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs

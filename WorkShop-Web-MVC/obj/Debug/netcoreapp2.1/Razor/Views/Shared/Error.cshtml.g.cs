@@ -85,7 +85,7 @@ using WorkShop_Web_MVC.Models;
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
         public global::Microsoft.AspNetCore.Mvc.Rendering.IJsonHelper Json { get; private set; }
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
-        public global::Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper<WorkShop_Web_MVC.Models.ViewModels.ErrorViewModel> Html { get; private set; }
+        public global::Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper<WorkShop_Web_MVC.Models.ViewModels. ErrorViewModel> Html { get; private set; }
     }
 }
 #pragma warning restore 1591
